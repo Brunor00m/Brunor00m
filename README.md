@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-🎂 Meu nome é [Seu Nome] e tenho 16 anos. Sou estudante do curso de **Desenvolvimento de Sites** integrado ao Ensino Médio na **ETEC Uirapuru** 🎓. Tenho paixão por tecnologia e estou sempre em busca de aprender e melhorar minhas habilidades 💻.
+🎂 Meu nome é Bruno Romão e tenho 16 anos. Sou estudante do curso de **Desenvolvimento de Sites** integrado ao Ensino Médio na **ETEC Uirapuru** 🎓. Tenho paixão por tecnologia e estou sempre em busca de aprender e melhorar minhas habilidades 💻.
 
 🔥 Atualmente, tenho conhecimentos sólidos em **HTML**, **CSS** e **JavaScript**, e estou expandindo meus conhecimentos em **Java** ☕ e **Kotlin** 🤖. 
 
